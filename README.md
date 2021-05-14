@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TechWasTaken
+- 👀 I’m interested in HTML5, CSS, JavaScript, Java, Python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ScratchAddons
